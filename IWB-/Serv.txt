@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Services - IWB</title>
+<link rel="stylesheet" href="styles.css">
+<style>.founder img{border-radius: 10px;
+            height:400px;
+        width: 600;}
+</style>
+</head>
+<body>
+<header><h1>Our Services</h1>
+<nav><ul>
+<a href="C:/Users/user/Documents/Company/1.html">Home</a> |
+<a href="C:/Users/user/Documents/Company/t.html">Software Tools</a> |
+<a href="C:/Users/user/Documents/Company/s.html">Stakeholders</a>
+</ul></nav>
+<span class="founder img"><center><img src="C:\Users\user\Documents\Company\Jumbo.GIF"></center></span>
+</header>
+
+<section>
+<h2>We Offer:</h2>
+<ul><li>Recycling RAM & Memory Modules</li>
+<li>Hard Drive Destruction & Recycling</li>
+<li>Motherboard Component Recycling</li>
+<li>Secure Data Destruction Services</li>
+</ul>
+</section>
+
+<footer>
+<p>&copy;IWB 2025 - All Rights Reserved</p>
+</footer>
+</body>
+</html>

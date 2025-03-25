@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stakeholders - IWB</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1>Our Stakeholders</h1>
+<nav><ul>
+<a href="C:/Users/user/Documents/Company/1.html">Home</a> |
+<a href="C:/Users/user/Documents/Company/serv.html">Services</a> |
+<a href="C:/Users/user/Documents/Company/t.html">Software Tools</a>
+</ul></nav>
+</header>
+
+<section>
+<ul><li><strong>Central Bank of Lesotho</strong> - <a href="https://www.centralbank.org.ls/" target="_blank">More info</a></li>
+            <li><strong>Lesotho National Development Corporation (LNDC)</strong> - <a href="https://www.lndc.org.ls/" target="_blank">More info</a></li>
+            <li><strong>Lesotho Highlands Development Authority</strong> - <a href="https://www.lhda.org.ls/" target="_blank">More info</a></li>
+</ul>
+</section>
+<video width="800px" height="400px" autoplay controls>
+<source src="C:\Users\user\Documents\Company\page.MP4" type="video/mp4">
+</video>
+
+<footer>
+<p>&copy;IWB 2025- All Rights Reserved</p>
+</footer>
+</body>
+</html>

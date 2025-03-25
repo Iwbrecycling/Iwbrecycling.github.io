@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, inital-scale=1.0" />
+<title>IWB - Home</title>
+<link rel="stylesheet" href="C:\Users\user\Documents\Company\styles.css">
+<script defer src="C:\Users\user\Documents\Company\script.js"></script>
+</head>
+<body>
+<header>
+<video width="800px" height="400px" autoplay controls>
+<source src="C:\Users\user\Documents\Company\Welcome.MP4" type="video/mp4">
+</video>
+<h1>Welcome to IWB - Electronic Recycling Experts</h1>
+<span class="nav ul"><nav><ul>
+<a href="C:/Users/user/Documents/Company/serv.html">Services</a> |
+<a href="C:/Users/user/Documents/Company/S.html">Stakeholders</a>
+</ul></nav>
+</header>
+
+<section class="banner">
+<h2>Introducing Our New Data Recovery & Destruction Tools</h2>
+<p>Securely Recover and Erase Your Data with Ease!</p>
+<a href="C:/Users/user/Documents/Company/t.html" class="btn">Explore Tools</a>
+</section>
+<br />
+<h3><b><u>Know About Us:</u></b></h3>
+<p><b>IWB</b> is a Lesotho company that started in 2024 with a Capital of M100 000, it operates under the supervision of Co-Founder Kenneth. During his journey on sourcing funds, Kenneth partnered with Shadrack, who joined as a second CEO of the company.<br />In 2025, the company penetrated the market and became one of the pioneers of electronic recycling in the Sourthen Region of Africa. The growth of IWB attracted investors, partners and clients outside of Lesotho.<br />
+<br />The mandate of IWB is to recycle computer parts; mainly the RAM, Hard Drives and Components of a motherboard.
+
+<h4>Contact Us:</h4>
+<section>
+<p>Email: info@iwbrecycle.com</p>
+<p>Phone: +266 22566782</p>
+<p>Follow us on:
+<a href="https://facebook.com">Facebook</a> |
+<a href="https://twitter.com">Twitter</a> |
+<a href="https://linkedin.com">LinkedIn</a>
+</p>
+<h2>Send us a message</h2>
+<form onsubmit="submitForm(event)">
+<label for="name">Name:</label><br>
+<input type="text" id="name" required><br>
+
+<label for="email">Email:</label><br>
+<input type="email" id="email" required><br>
+
+<label for="message">Message:</label><br>
+<textarea id="message" required></textarea><br>
+
+<button type="submit">Submit</button>
+</form>
+</section>
+
+<span class="footer">
+<p>&copy;IWB 2025 - All Rights Reserved</p>
+</span>
+</body>
+</html>

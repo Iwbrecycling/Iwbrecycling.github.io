@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Software Tools -IWB</title>
+<link rel="stylesheet" href="styles.css">
+<style type="text/css">
+.table, th, td {border-collapse:collapse;
+border: 1px solid black;}
+</style
+
+</head>
+<body>
+<header>
+<h1>Software Tools for Data Recovery & Destruction.</h1>
+<nav><ul>
+<a href="C:/Users/user/Documents/Company/1.html">Home</a> |
+<a href="C:/Users/user/Documents/Company/serv.html">Services</a> |
+<a href="C:/Users/user/Documents/Company/S.html">Stakeholders</a>
+</ul></nav>
+<video width="800px" height="400px" controls>
+<source src="C:\Users\user\Documents\Company\new tools.MP4" type="video/mp4">
+</video>
+</header>
+
+<section>
+<h2>Try Our New Data Tools - Affordable Monthly Plans</h2>
+<table>
+<thead><tr>
+<th>Softwares</th>
+<th>Functions</th>
+<th>Payments(monthly/annually)</th>
+</tr></thead>
+<br />
+<tbody><tr>
+<td>DataWipex </td>
+<td>Secure Data Destruction</td>
+<td>$10/month, $100/year</td>
+</tr>
+<br />
+<tr>
+<td>RecoveryPro</td>
+<td>Advanced File Recovery</td>
+<td>$15/month, $120/year</td>
+</tr>
+<tr>
+<td>ShredSafe</td>
+<td>Government-Grade File Shredding</td>
+<td>$12/month, $110/year</td>
+</tr>
+<tr>
+<td>DriveRescue</td>
+<td>Hard Drive Recovery</td>
+<td>$20/month,$150/year</td>
+</tr>
+</tbody>
+</table>
+</section>
+
+<footer>
+<p>&copy;IWB 2025 - All Rights Reserved</p>
+</footer>
+</body>
+</html>
